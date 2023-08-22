@@ -36,17 +36,6 @@ I hope to learn a lot here, and I hope I can help in some way too.
   <a href="https://t.me/LecoOliveira" target="_blank"><img src="https://img.shields.io/badge/-telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=2aa889"target="_blank"></a>
 </div>
 
-##
-
-<h3 align="center">Languages, Tools and Skills</h3>
-
-<div align="center"><div style="width: 70%;">
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,py,fastapi,postgres,sqlite,git,github,docker,linux,vscode,c,md)](https://skillicons.dev)
-</div></div>
-
-##
-
 
 ##
 
