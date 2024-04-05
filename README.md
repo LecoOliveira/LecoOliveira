@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I'm Alex Rocha (LecoOliveira)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&weight=200&size=16&duration=4000&pause=1000&color=FFFFFF&height=28&lines=Python+Developer+%7C+Ethical+Hacker+%7C+Security+Analist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&weight=200&size=16&duration=4000&pause=1000&color=FFFFFF&height=28&lines=Python+Developer+%7C+Ethical+Hacker+%7C+Security+Analyst)](https://git.io/typing-svg)
 </h1>
 
 <h3 align="center"> About me</h3>
