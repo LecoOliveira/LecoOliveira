@@ -7,7 +7,8 @@
 <h3 align="center"> About me</h3>
 
 ```
-My name is Alex Rocha. I am 31 years old and currently transitioning into a career in technology. I am passionate about Cyber Security, Full Stack Development, QA, and Networking. As an avid technology enthusiast, I am eager to learn and embrace new challenges in the field.
+My name is Alex Rocha. I am 31 years old and currently transitioning into a career in technology. I am passionate about Cyber Security,
+Full Stack Development, QA, and Networking. As an avid technology enthusiast, I am eager to learn and embrace new challenges in the field.
 
 I am presently pursuing:
 
