@@ -7,8 +7,9 @@
 <h3 align="center"> About me</h3>
 
 ```
-My name is Alex Rocha. I am 31 years old and currently transitioning into a career in technology. I am passionate about Cyber Security,
-Full Stack Development, QA, and Networking. As an avid technology enthusiast, I am eager to learn and embrace new challenges in the field.
+My name is Alex Rocha. I am 31 years old and currently transitioning into a career in technology. I am passionate
+about Cyber Security, Full Stack Development, QA, and Networking. As an avid technology enthusiast, I am eager to
+learn and embrace new challenges in the field.
 
 I am presently pursuing:
 
@@ -16,7 +17,7 @@ I am presently pursuing:
 - New Pentest Professional at DESEC Security
 - Fullstack Java + Angular at DIO Santander BootCamp 2023
 
-I am excited to expand my knowledge and skills here, and I look forward to contributing and assisting in any way I can.
+I am excited to expand my knowledge and skills, and I look forward to contributing and assisting in any way I can.
 ```
 
 <div align="center">
