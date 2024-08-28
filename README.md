@@ -15,7 +15,6 @@ I am presently pursuing:
 
 - Analysis and Systems Development at FAM
 - New Pentest Professional at DESEC Security
-- Fullstack Java + Angular at DIO Santander BootCamp 2023
 
 I am excited to expand my knowledge and skills, and I look forward to contributing and assisting in any way I can.
 ```
