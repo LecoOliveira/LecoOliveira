@@ -1,22 +1,22 @@
 
-<h1 align="center">Hello, I'm Alex Rocha (LecoOliveira)
+<h1 align="center">Olá, Sou Alex Rocha (LecoOliveira)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&weight=200&size=16&duration=4000&pause=1000&color=FFFFFF&height=28&lines=Python+Developer+%7C+Ethical+Hacker+%7C+Security+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front+End+%7C+Back+End+%7C+Pentester+%7C+Hacker)](https://git.io/typing-svg)
 </h1>
 
-<h3 align="center"> About me</h3>
+<h3 align="center"> Sobre mim </h3>
 
 ```
-My name is Alex Rocha. I am 31 years old and currently transitioning into a career in technology. I am passionate
-about Cyber Security, Full Stack Development, QA, and Networking. As an avid technology enthusiast, I am eager to
-learn and embrace new challenges in the field.
+Meu nome é Alex Rocha. Tenho 32 anos e atualmente estou em transição para uma carreira em tecnologia. eu sou apaixonado
+por segurança cibernética, desenvolvimento Full Stack, controle de qualidade e rede. Como um apaixonado e entusiasta da tecnologia, estou ansioso para
+aprender e abraçar novos desafios nessa área incrível.
 
-I am presently pursuing:
+Formação:
 
-- Analysis and Systems Development at FAM
-- New Pentest Professional at DESEC Security
+- Análise e Desenvolvimento de Sistemas na FAM
+- Novo Profissional Pentest na DESEC Security
 
-I am excited to expand my knowledge and skills, and I look forward to contributing and assisting in any way I can.
+Estou animado para expandir meus conhecimentos e habilidades e espero contribuir e ajudar de todas as maneiras que puder.
 ```
 
 <div align="center">
