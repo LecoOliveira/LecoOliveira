@@ -38,9 +38,4 @@ Estou animado para expandir meus conhecimentos e habilidades e espero contribuir
 
 ##
 
-<div align="center">
-<h5> Views </h5>
-<a href="#">
-    <img alt="profile visit" src="https://profile-counter.glitch.me/LecoOliveira/count.svg" width="100"/> 
-</a>
-</div>
+
