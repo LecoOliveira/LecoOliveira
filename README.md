@@ -30,7 +30,6 @@ Estou animado para expandir meus conhecimentos e habilidades e espero contribuir
  
 <div align="center">
   <a href="https://www.linkedin.com/in/alex-rocha-23119411b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2aa889" target="_blank"></a>
-  <a href="https://github.com/LecoOliveira" target="_blank"><img src="https://img.shields.io/badge/-github-0d1117?style=for-the-badge&logo=github&logoColor=2aa889" target="_blank"></a>
   <a href="https://www.instagram.com/lecooliveira_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=2aa889" target="_blank"></a>
   <a href="https://wa.me/5511940228960" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=2aa889"target="_blank"></a>
   <a href="https://t.me/LecoOliveira" target="_blank"><img src="https://img.shields.io/badge/-telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=2aa889"target="_blank"></a>
